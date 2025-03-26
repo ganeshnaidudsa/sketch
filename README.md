@@ -92,5 +92,5 @@ Contributions are welcome! Follow these steps to contribute:
 
 ## Contact
 For any inquiries or support, feel free to reach out:
-- **Email**: your-email@example.com
+- **Email**: ganeshnaidudsa@gmail.com
 - **GitHub**: [ganeshnaidudsa](https://github.com/ganeshnaidudsa)
