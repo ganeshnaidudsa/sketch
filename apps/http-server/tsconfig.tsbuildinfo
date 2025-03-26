@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middlewares/authenticate.ts","./src/routes/v1/authroute.ts","./src/routes/v1/index.ts","./src/routes/v1/roomroute.ts","./src/service/authservice.ts","./src/service/roomservice.ts"],"version":"5.7.3"}
